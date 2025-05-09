@@ -620,6 +620,44 @@ h3{
 	font-style: normal;
 }
 .speak p a{color: #fff;}
+
+/*form*/
+.form{
+	padding-top: 40px;
+	background: #f9f9f9;
+	padding-bottom: 40px;
+}	
+#rd-column-maffg1mz > div{
+	border: none !important;
+}
+#rd-button-maffg1n3.bricks--component-button{
+	border-radius:8px !important;
+	background: linear-gradient(10deg, rgba(238,137,47) 0%, rgba(226,102,18) 100%) !important;
+  	border: none !important;
+	height: 48px !important;
+}
+
+#rd-form-maffg1n0 .bricks-form__input:not(textarea){
+	box-shadow: 0px 3px 20px -6px rgba(0,0,0,0.1)!important;
+	border-radius:8px !important;
+	border:none !important;
+	height:48px !important;
+}
+
+#rd-form-maffg1n0 .with-select-flags > .phone-input-group > .select2-container > .select2-choice > .select2-chosen{
+	height:48px !important;
+}
+#rd-form-maffg1n0 .select2-container .select2-choice{
+	height:48px !important;
+}
+#rd-form-maffg1n0 .with-select-flags > .phone-input-group > .phone-country{
+	height:48px !important;
+	box-shadow: 0px 3px 20px -6px rgba(0,0,0,0.1)!important;
+}
+#rd-column-maffg1mz > div{
+	background: #f9f9f9 !important;
+}
+
 /*footer*/
 
 .footer{
